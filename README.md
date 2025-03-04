@@ -1,6 +1,8 @@
-# Interactive Website Traffic Dashboard
+# Webpage Traffic Dashboard
 
 This project provides an interactive dashboard to visualize website traffic data, including page views and unique visitors.
+
+![Webpage Traffic](/Screenshot-Webpage-Traffic.png?raw=true "Webpage Traffic")
 
 ## Features
 
